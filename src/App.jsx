@@ -1,11 +1,11 @@
 import { Route, Routes } from "react-router-dom";
-import Layout from "./components/common/Lasyout";
-import NotFound from "./pages/NotFound";
-import Home from "./pages/Home";
-import First from "./pages/First";
-import Second from "./pages/Second";
 
 import "./App.css";
+import Layout from "./components/common/Lasyout";
+import First from "./pages/First";
+import Home from "./pages/Home";
+import NotFound from "./pages/NotFound";
+import Second from "./pages/Second";
 
 function App() {
   return (
